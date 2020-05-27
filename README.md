@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/willie-cadete/onebitexchange/public/screenshot.png" width="550">
+	<img src="https://raw.githubusercontent.com/willie-cadete/onebitexchange/master/public/screenshot.png" width="550">
 </p>
 
 ## Overview
